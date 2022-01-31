@@ -1,2 +1,2 @@
 # operationalcomputers.github.io
-Webpage of Operation Computers.
+Webpage of Operation Devices.
